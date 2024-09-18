@@ -3,4 +3,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://malaikatmalas.github.io/kaosbasah/sitemapas.xml
+Sitemap: https://malaikatmalas.github.io/kaosbasah/sitemap.xml
