@@ -1,0 +1,6 @@
+# Robots.txt for https://malaikatmalas.github.io/kaosbasah
+
+User-agent: *
+Disallow:
+
+Sitemap: https://malaikatmalas.github.io/kaosbasah/sitemapas.xml
